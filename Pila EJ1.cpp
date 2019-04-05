@@ -9,8 +9,6 @@ typedef struct reg{
 	int sueldo;
 	struct nodo *sgte;
 }reg;
-//holaa
-//chaoo
 
 typedef struct nodo{ 
 	reg dato;
