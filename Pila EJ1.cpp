@@ -10,6 +10,7 @@ typedef struct reg{
 	struct nodo *sgte;
 }reg;
 //holaa
+//chaoo
 
 typedef struct nodo{ 
 	reg dato;
